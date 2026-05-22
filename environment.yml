@@ -1,0 +1,12 @@
+name: madurella-target-discovery
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - requests
+  - chembl_webresource_client
+  - pyhmmer
+  - biopython
